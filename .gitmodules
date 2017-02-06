@@ -1,0 +1,15 @@
+[submodule "plugins/auto-pairs"]
+	path = plugins/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "plugins/jellybeans.vim"]
+	path = plugins/jellybeans.vim
+	url = https://github.com/nanotech/jellybeans.vim.git
+[submodule "plugins/supertab"]
+	path = plugins/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "plugins/vim-airline"]
+	path = plugins/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "plugins/vim-airline-themes"]
+	path = plugins/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git

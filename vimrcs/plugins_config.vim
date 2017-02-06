@@ -31,8 +31,15 @@ map <leader>nf :NERDTreeFind<cr>
 """""""""""""""""""""""""""""
 " Airline plugin
 """""""""""""""""""""""""""""
+set laststatus=2
+let g:airline_powerline_fonts = 1
+" set t_Co=256
 let g:airline_theme='jellybeans'
-"let g:airline_theme='simple'
+" let g:airline_theme='simple'
+if !exists('g:airline_symbols')
+    let g:airline_symbols = {}
+endif
+let g:airline_symbols.space = "\ua0"
 
 """""""""""""""""""""""""""""
 " Color scheme plugin
