@@ -2,7 +2,7 @@
 
 ## Install
 ```shell
-git clone https://github.com/Jiaolong/my_vimrc.git ~/.vim_runtime
+git clone --recursive https://github.com/Jiaolong/my_vimrc.git ~/.vim_runtime
 sh ~/.vim_runtime/install.sh
 ```
 ## Known issues
