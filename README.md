@@ -5,6 +5,10 @@
 git clone --recursive https://github.com/Jiaolong/my_vimrc.git ~/.vim_runtime
 sh ~/.vim_runtime/install.sh
 ```
+
+## Screen shot
+![screenshot](./screenshots/screenshot.png)
+
 ## Known issues
 - vim-airline is not showing symbols properly?
 Install powerline fonts:
